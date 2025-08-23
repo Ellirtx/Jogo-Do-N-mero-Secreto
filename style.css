@@ -126,15 +126,15 @@ button:disabled {
     }
 
     .container__imagem-pessoa {
-        display: absolute;
+        display: none;
     }
 
     .container__conteudo {
         display: block;
-        position: inherit;
+        position: right;
     }
 
     .container__informacoes {
-        padding: 1rem
+        padding: 1rem;
     }
 }
