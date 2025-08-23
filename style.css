@@ -131,10 +131,10 @@ button:disabled {
 
     .container__conteudo {
         display: block;
-        position: right;
+        position: inherit;
     }
 
     .container__informacoes {
-        padding: 1rem;
+        padding: 1rem
     }
 }
